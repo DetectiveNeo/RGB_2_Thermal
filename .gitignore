@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# .zip files and data folder
+RGB_to_Thermal_ZIP_file.zip
+RGB_to_Thermal_ZIP_folder
+
+
