@@ -208,7 +208,9 @@ __marimo__/
 
 
 # .zip files and data folder
-RGB_to_Thermal_ZIP_file.zip
+
 RGB_to_Thermal_ZIP_folder
+model_file
+
 
 model_file
